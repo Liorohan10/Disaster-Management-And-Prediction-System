@@ -8,21 +8,17 @@ This project aims to develop advanced image classification for earthquakes, wild
   * Proved relevant evaluation metrics for each category.
 * Person Detection
   * Used YOLOv8 to detect people within the input image.
-  *  Provided bounding boxes around detected people.
-  *  Estimated number of people detected.
+  * Provided bounding boxes around detected people.
+  * Estimated number of people detected.
 * Scalability
   *  Created a scalable system which can handle numerous requests at the same time. 
 * User Interface
   * Developed a user interface (UI) for users to upload images and view classification results and person detections through a website.
 
-* Requirements
-  * Technical Requirements
-    * Programming language: Python, JavaScript
-    * Deep Learning Framework: TensorFlow, PyTorch
-    * Model:
-      * Leveraged a pre-trained Vision Transformer from Hugging Face (google/vit-base-patch16-224) fine tuned on a custom dataset.
-      * Utilised a pre-trained YOLOv8-nano model for person detection which was fine-tuned on a custom dataset.
-  * Requirements to install
-
-
-
+* Technical Requirements
+  * Programming language: Python, JavaScript, HTML, CSS
+  * Deep Learning Framework: TensorFlow, PyTorch
+  * Model:
+     * Leveraged a pre-trained Vision Transformer from Hugging Face (google/vit-base-patch16-224) fine tuned on a custom dataset.
+     * Utilised a pre-trained YOLOv8-nano model for person detection which was fine-tuned on a custom dataset.
+        
