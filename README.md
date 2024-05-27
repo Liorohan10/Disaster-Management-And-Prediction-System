@@ -2,6 +2,8 @@
 # Overview
 This project aims to develop advanced image classification for earthquakes, wildfires, and floods, aiding emergency response with timely insights. Additionally, we're creating a sophisticated people detection algorithm to assess human impact, prioritize rescue efforts, and integrate both modules into user-friendly software for real-time disaster management support.
 
+![Disaster-Management-And-Prediction-System](https://github.com/Liorohan10/Disaster-Management-And-Prediction-System/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+
 # Features
 * Image Classification 
   * Classify input images into one of three categories, earthquake, wildfire or flood. 
