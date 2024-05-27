@@ -2,8 +2,6 @@
 # Overview
 This project aims to develop advanced image classification for earthquakes, wildfires, and floods, aiding emergency response with timely insights. Additionally, we're creating a sophisticated people detection algorithm to assess human impact, prioritize rescue efforts, and integrate both modules into user-friendly software for real-time disaster management support.
 
-![Disaster-Management-And-Prediction-System](https://www.youtube.com/watch?v=y4cHTBv9uks)
-
 # Features
 * Image Classification 
   * Classify input images into one of three categories, earthquake, wildfire or flood. 
@@ -23,4 +21,6 @@ This project aims to develop advanced image classification for earthquakes, wild
   * Model:
      * Leveraged a pre-trained Vision Transformer from Hugging Face (google/vit-base-patch16-224) fine tuned on a custom dataset.
      * Utilised a pre-trained YOLOv8-nano model for person detection which was fine-tuned on a custom dataset.
-        
+
+ # Demo
+ Visit this youtube link to see the demo:- https://www.youtube.com/watch?v=y4cHTBv9uks
